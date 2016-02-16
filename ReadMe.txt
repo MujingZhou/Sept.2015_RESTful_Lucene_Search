@@ -1,2 +1,1 @@
-HashTable Implementation with linear probing.
-Using Array with Open Addressing to resolve collision.
+Build spatial index into DSLP data set parsed by DOM parser, applied Lucene index search to accelerate speed of range query and publish the service in a RESTFul style.
